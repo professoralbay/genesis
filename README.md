@@ -6,7 +6,9 @@
 ![Canvas API](https://img.shields.io/badge/Canvas_API-FF6B35?style=flat&logo=html5&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=flat&logo=anthropic&logoColor=white)
 
-> A real-time physics-based universe simulator. Create stars, black holes, nebulas and comets — watch them attract, collide, and merge. An AI Oracle powered by Claude observes your universe and comments philosophically.
+> A real-time physics-based universe simulator. Create stars, black holes,
+  nebulas and comets — watch them attract, collide, and merge.
+  An AI Oracle observes your universe and comments philosophically.
 
 ---
 
