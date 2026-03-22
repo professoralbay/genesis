@@ -18,7 +18,7 @@
 
 ## 🎬 Demo
 
-![Demo](screenshot.gif)
+![Demo](https://github.com/professoralbay/genesis/blob/main/Kay%C4%B1t%202026-03-22%20165817.gif)
 
 ---
 
